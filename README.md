@@ -18,6 +18,7 @@
   </div>    
 </p>
 
+ ![snake gif](https://github.com/zi3dAouidene/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ### Hi there 👋
